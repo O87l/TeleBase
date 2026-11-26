@@ -137,6 +137,10 @@ let fetched = try await registry.fetch(key: TBProfile.recordKey(ownerId: 42),
 Your payload can be any `Codable` type — `TBProfile` is just the example
 TeleBase was born from.
 
+## Usage guide
+
+Step-by-step walkthroughs and use cases for both modes live in [Docs/USAGE.md](Docs/USAGE.md).
+
 ## Record format
 
 ```
