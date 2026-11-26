@@ -2,6 +2,8 @@
 
 **A free backend for your app, powered by a Telegram group. No server. No bill.**
 
+![TeleBase demo — post a config message, every app copy reacts](assets/demo.gif)
+
 TeleBase turns a Telegram group into a tiny database for indie apps.
 Your app publishes small records — profile cards, leaderboards, shared
 settings — as messages in the group. Other copies of the app read them
